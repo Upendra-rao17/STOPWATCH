@@ -1,6 +1,5 @@
 # STOPWATCH
 ## STOPWATCH (Made using HTML5 CSS3 and JavaScript)
-Site is live at https:https://github.com/Upendra-rao17/STOPWATCH.git
 
 ABOUT THIS PROJECT-:
 
@@ -9,3 +8,5 @@ ABOUT THIS PROJECT-:
 2.In the Stopwatch there are three buttons start, pause, and reset for operating the stopwatch.
 
 3.The main logic use in this stopwatch project is the set timeout function.
+
+Site is live at https:https://github.com/Upendra-rao17/STOPWATCH.git
