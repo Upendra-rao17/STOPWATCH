@@ -1,6 +1,6 @@
 # STOPWATCH
-# STOPWATCH (Made using HTML5 CSS3 and JavaScript)
-site is live at https:https://github.com/Upendra-rao17/STOPWATCH.git
+## STOPWATCH (Made using HTML5 CSS3 and JavaScript)
+Site is live at https:https://github.com/Upendra-rao17/STOPWATCH.git
 
 ABOUT THIS PROJECT-:
 
