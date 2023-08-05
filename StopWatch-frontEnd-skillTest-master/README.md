@@ -9,4 +9,4 @@ ABOUT THIS PROJECT-:
 
 3.The main logic use in this stopwatch project is the set timeout function.
 
-Site is live at https:https://github.com/Upendra-rao17/STOPWATCH.git
+Site is live at https: https://upendra-rao17.github.io/STOPWATCH/
